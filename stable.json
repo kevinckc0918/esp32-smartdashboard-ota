@@ -1,0 +1,6 @@
+{
+    "version":"1.7.1",
+    "firmware_url":"https://raw.githubusercontent.com/kevinckc0918/esp32-smartdashboard-ota/main/firmware/v1.7.1.bin",
+    "notes":"新增 Widget Engine",
+    "force":false
+}
